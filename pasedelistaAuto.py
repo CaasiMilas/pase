@@ -3,9 +3,9 @@ from time import sleep
 from datetime import datetime
 import os
 
-with open('C:\\Users\\zombi\\Desktop\\password.txt', 'r') as f:
+with open('C:\\Users\\salim\\Desktop\\password.txt', 'r') as f:
     passwor = f.read()
-with open('C:\\Users\\zombi\\Desktop\\mail.txt','r') as g:
+with open('C:\\Users\\salim\\Desktop\\mail.txt','r') as g:
     mail = g.read()
 
 hora = ''
